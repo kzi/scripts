@@ -5,7 +5,6 @@ last.fmのLoved TrackをもとにiTunesプレイリスト作るよ。
 
 ## 使い方
 - ~/Library/iTunes/Scriptsの中に該当ファイルをおく
-- ソース無い変数のapiKey及びgetUserを編集する
 
 上記を行なってからiTunesを起動したらメニューバーのアレから実行出来ますです。
 
@@ -16,3 +15,4 @@ last.fmのLoved TrackをもとにiTunesプレイリスト作るよ。
 ## 今後
 - エラー処理が微妙
 - API keyとかこれどうにかなんないの
+  (API Key規約読んだら非商用利用の配布に関してはKeyの記載はもんだいなさそうなんでとりあえず書いとく。問題あればAPI Key自体を削除する)
