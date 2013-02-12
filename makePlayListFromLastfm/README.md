@@ -1,4 +1,4 @@
-# makePlayList2Lastfm
+# makePlayListFromLastfm
 
 ## 概要
 last.fmのLoved TrackをもとにiTunesプレイリスト作るよ。
